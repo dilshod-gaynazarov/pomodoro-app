@@ -240,7 +240,7 @@ onMounted(() => { });
 }
 
 .status {
-  width: 295px;
+  width: 250px;
   height: 48px;
   border-radius: 48px;
   display: flex;
