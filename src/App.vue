@@ -210,7 +210,7 @@ let btn = () => {
         end.value = 60;
         lamp.value = false;
       }
-    }, 10);
+    }, 1000);
   }
 
   if (!lamp.value) {
